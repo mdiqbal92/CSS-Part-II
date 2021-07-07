@@ -1,0 +1,30 @@
+.top-container{
+    background-color: aliceblue;
+    position: relative;
+    padding-top: 50px;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+}
+h1{
+    margin: 20px auto 0 auto;
+    font-family: "Trirong", cursive;
+    color: #0f4c75;
+    font: size 6rem;
+    line-height: 1.5;
+}
+h2{
+    font-family: "Audiowide", sans-serif;
+    color: #0f4c75;
+    font-weight: normal;
+}
+h3{
+    font-family: "Audiowide", sans-serif;
+    color: #cbf1f5;
+}
+.desc{
+    width: 50%;
+    margin-left: 25%;
+}
